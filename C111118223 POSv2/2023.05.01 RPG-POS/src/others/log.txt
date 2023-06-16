@@ -1,0 +1,37 @@
+2023.05.03
+    add function timer
+        to use for like the function time.sleep
+
+    add function StartBorderPane
+        to use for the pane of start
+
+2023.05.05
+    add class PaneManager
+        to use for any action or generation of pane
+
+        add public void shopPane(Button[] menu, String day)
+            to use for generate the newest menu and update the date
+
+        add private void MainPane()
+            only used for once
+
+        add private void StartBorderPane()
+            only used for once
+
+    add class GameManager
+        to use for game
+
+        add public void Start()
+            to deal with the game progress
+
+        add public void test(Stage primaryStage)
+            just for test
+
+        add  public Boolean timer(int sleepSecond)
+            to deal with any conduct delay for some second
+
+        add public Boolean CheckSave()
+            to check the exist of file of save
+
+    clean the main class(RPG_POS.java)'s all code 
+        such as move all pane generation of pane into a new class PaneManager

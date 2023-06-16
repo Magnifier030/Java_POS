@@ -1,0 +1,63 @@
+==========================================
+time:Thu May 11 01:57:39 CST 2023.
+ID:00004.
+name:牛肉.
+price:30.
+purchaseNum:2.
+cost:60.
+nowStcok:25.
+origin:高產畜牧業:台東縣高等區不同路52號.
+==========================================
+time:Thu May 11 01:57:42 CST 2023.
+ID:00003.
+name:豬肉.
+price:20.
+purchaseNum:4.
+cost:80.
+nowStcok:26.
+origin:高產畜牧業:台東縣高等區不同路52號.
+==========================================
+time:Thu May 11 01:57:44 CST 2023.
+ID:00002.
+name:麵粉.
+price:5.
+purchaseNum:3.
+cost:15.
+nowStcok:33.
+origin:大崗農場:嘉義縣中仁區平等路74號.
+==========================================
+time:Thu May 11 01:57:46 CST 2023.
+ID:00001.
+name:雞蛋.
+price:10.
+purchaseNum:4.
+cost:40.
+nowStcok:52.
+origin:安佳農場:台中市泰仁區興隆路7-4號.
+==========================================
+time:Thu May 11 01:59:34 CST 2023.
+ID:00001.
+name:雞蛋.
+price:10.
+purchaseNum:1.
+cost:10.
+nowStcok:56.
+origin:安佳農場:台中市泰仁區興隆路7-4號.
+==========================================
+time:Thu May 11 01:59:35 CST 2023.
+ID:00001.
+name:雞蛋.
+price:10.
+purchaseNum:1.
+cost:10.
+nowStcok:57.
+origin:安佳農場:台中市泰仁區興隆路7-4號.
+==========================================
+time:Mon Jun 12 00:50:54 CST 2023.
+ID:i-004.
+name:牛肉.
+price:30.
+purchaseNum:4.
+cost:120.
+nowStcok:27.
+origin:高產畜牧業:台東縣高等區不同路52號.

@@ -1,0 +1,4 @@
+architecture
+|
+|_start(seller)
+|_start(customer)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="2023.05.01_RPG-POS.jnlp">
+  <information>
+    <title>2023.05.01_RPG-POS</title>
+    <vendor>99027</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="lib\mariadb-java-client-2.2.3.jar" size="566457" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="2023.05.01_RPG-POS" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="pkg2023.pkg05.pkg01.rpg.pos.system.RPG_POS"  name="2023.05.01_RPG-POS" />
+  <update check="always"/>
+</jnlp>
